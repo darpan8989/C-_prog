@@ -32,3 +32,4 @@ int main()
     c[2].put();
     return 0;
 }
+//code end
